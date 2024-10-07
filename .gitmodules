@@ -1,0 +1,3 @@
+[submodule "components/esp-RotaryEncoder-cpp"]
+	path = components/esp-RotaryEncoder-cpp
+	url = https://github.com/timreddy/esp-RotaryEncoder-cpp.git

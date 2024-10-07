@@ -3,8 +3,6 @@ dependencies:
   ## Required IDF version
   idf:
     version: ">=5.3.0"
-  esp-RotaryEncoder-cpp:
-    git: https://github.com/timreddy/esp-RotaryEncoder-cpp.git
   # # Put list of dependencies here
   # # For components maintained by Espressif:
   # component: "~1.0.0"
